@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\VisualStudio\\BlazorApp\\IMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{784EFEEA-B2E6-4CFB-BB62-14E9314EF755}|Application\\Application.csproj|e:\\project\\visualstudio\\blazorapp\\ims\\application\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784EFEEA-B2E6-4CFB-BB62-14E9314EF755}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784EFEEA-B2E6-4CFB-BB62-14E9314EF755}|Application\\Application.csproj|e:\\project\\visualstudio\\blazorapp\\ims\\application\\interface\\identity\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784EFEEA-B2E6-4CFB-BB62-14E9314EF755}|Application\\Application.csproj|solutionrelative:application\\interface\\identity\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784EFEEA-B2E6-4CFB-BB62-14E9314EF755}|Application\\Application.csproj|e:\\project\\visualstudio\\blazorapp\\ims\\application\\service\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784EFEEA-B2E6-4CFB-BB62-14E9314EF755}|Application\\Application.csproj|solutionrelative:application\\service\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D9FAE5-DEED-4F45-B19D-018537C45212}|Infrastructure\\Infrastructure.csproj|e:\\project\\visualstudio\\blazorapp\\ims\\infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D9FAE5-DEED-4F45-B19D-018537C45212}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D9FAE5-DEED-4F45-B19D-018537C45212}|Infrastructure\\Infrastructure.csproj|e:\\project\\visualstudio\\blazorapp\\ims\\infrastructure\\repository\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D9FAE5-DEED-4F45-B19D-018537C45212}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "E:\\Project\\VisualStudio\\BlazorApp\\IMS\\Application\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "E:\\Project\\VisualStudio\\BlazorApp\\IMS\\Application\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "Application\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:55:33.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "E:\\Project\\VisualStudio\\BlazorApp\\IMS\\Application\\Interface\\Identity\\AccountService.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\Identity\\AccountService.cs",
+              "ToolTip": "E:\\Project\\VisualStudio\\BlazorApp\\IMS\\Application\\Interface\\Identity\\AccountService.cs",
+              "RelativeToolTip": "Application\\Interface\\Identity\\AccountService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:47:57.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "E:\\Project\\VisualStudio\\BlazorApp\\IMS\\Application\\Service\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\IAccountService.cs",
+              "ToolTip": "E:\\Project\\VisualStudio\\BlazorApp\\IMS\\Application\\Service\\IAccountService.cs",
+              "RelativeToolTip": "Application\\Service\\IAccountService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:46:11.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "E:\\Project\\VisualStudio\\BlazorApp\\IMS\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "E:\\Project\\VisualStudio\\BlazorApp\\IMS\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:43:36.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\Project\\VisualStudio\\BlazorApp\\IMS\\Infrastructure\\Repository\\Account.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\Account.cs",
+              "ToolTip": "E:\\Project\\VisualStudio\\BlazorApp\\IMS\\Infrastructure\\Repository\\Account.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\Account.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAwwK0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:10:09.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
